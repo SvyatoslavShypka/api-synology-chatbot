@@ -1,6 +1,6 @@
 FROM openjdk:8-jre-alpine
 
-LABEL maintainer "Antoine Aumjaud <antoine_dev@aumjaud.fr>"
+LABEL maintainer = "Antoine Aumjaud <antoine_dev@aumjaud.fr>"
 
 EXPOSE 9080
 
